@@ -1,0 +1,45 @@
+.app {
+  flex: 1;
+  position: relative;
+  display: flex!important;
+  flex-direction: column;
+  width: 600px!important;
+  text-align: center;
+  background-color:  #f5f5f5;
+  padding-bottom: 60px;
+}
+
+.spinner {
+  position: absolute;
+  top: 13px;
+  right: 13px;
+}
+
+.header {
+  padding: 20px 0;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.session h4 {
+  font-size: 18pt;
+}
+
+div.spacer {
+  margin-bottom: 15px;
+}
+
+.register-form {
+  width: 223px;
+  margin: auto;
+}
+
+.add-ticket {
+  align-self: flex-end;
+  margin-bottom: 10px!important;
+}
+
+.request-button {
+  margin-left: 5px!important;
+  padding: 0!important;
+}
